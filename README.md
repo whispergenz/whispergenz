@@ -31,10 +31,10 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=whispergenz&show_icons=true&bg_color=0D1117&title_color=FF0000&text_color=E0E0E0&icon_color=FF0000&border_color=FF0000&hide_border=false" alt="Stats Card" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=whispergenz&show_icons=true&bg_color=0D1117&title_color=FF0000&text_color=E0E0E0&icon_color=FF0000&border_color=FF0000&hide_border=false" alt="Stats Card" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whispergenz&layout=compact&bg_color=0D1117&title_color=FF0000&text_color=E0E0E0&icon_color=FF0000&border_color=FF0000&hide_border=false" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=whispergenz&layout=compact&bg_color=0D1117&title_color=FF0000&text_color=E0E0E0&icon_color=FF0000&border_color=FF0000&hide_border=false" alt="Top Languages" />
     </td>
   </tr>
 </table>

@@ -7,7 +7,6 @@
 ## 🕯️ <samp>Hi there!</samp>
 *I am a developer currently operating under the shadow of the House of the Hearth.* <br>
 *My code is as sharp as a crimson blade and as efficient as a Fatui mission.* <br>
-*(credit to Gemini for this cringe line.)*
 
 </div>
 

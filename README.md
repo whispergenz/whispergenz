@@ -40,7 +40,8 @@
 
 ### 🕸️ Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whispergenz&theme=react-dark&bg_color=0D1117&color=FF0000&line=FF0000&point=E0E0E0&area=true&hide_border=true" width="100%" />
+  Shhhh. It's secret
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=whispergenz&theme=react-dark&bg_color=0D1117&color=FF0000&line=FF0000&point=E0E0E0&area=true&hide_border=true" width="100%" /> -->
 </p>
 
 ---
